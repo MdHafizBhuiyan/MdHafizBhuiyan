@@ -1,4 +1,4 @@
-
+![logo](https://github.com/MdHafizBhuiyan/MdHafizBhuiyan/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Md. Abdul Hafiz</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/pai-images/a5a7f018cf7942eda56841879934f318.jpeg">
