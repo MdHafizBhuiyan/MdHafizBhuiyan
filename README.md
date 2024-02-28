@@ -1,12 +1,13 @@
-[![MasterHead].(https://drive.google.com/file/d/1RET-ma6GMi-iM_WaitpbpyZN9dx09PBD/view?usp=sharing)]
-
+[![MasterHead](https://www.canva.com/design/DAF-Bq1_QtQ/9-e3-Ytm1WRuAEunf--vNQ/edit)]
 <h1 align="center">Hi 👋, I'm Md. Abdul Hafiz</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/pai-images/a5a7f018cf7942eda56841879934f318.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdhafizbhuiyan&label=Profile%20views&color=0e75b6&style=flat" alt="mdhafizbhuiyan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mdhafiz" target="blank"><img src="https://img.shields.io/twitter/follow/mdhafiz?logo=twitter&style=for-the-badge" alt="mdhafiz" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdhafizbhuiyan" alt="mdhafizbhuiyan" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/mdhafiz_bhuiyan" target="blank"><img src="https://img.shields.io/twitter/follow/mdhafiz_bhuiyan?logo=twitter&style=for-the-badge" alt="mdhafiz_bhuiyan" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://ahafizportfolio.netlify.app/](https://ahafizportfolio.netlify.app/)
 
@@ -16,11 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mdhafiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdhafiz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md.abdul hafiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md.abdul hafiz" height="30" width="40" /></a>
-<a href="https://fb.com/md. abdul hafiz bhuiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md. abdul hafiz bhuiyan" height="30" width="40" /></a>
-<a href="https://instagram.com/md.abdul hafiz bhuiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md.abdul hafiz bhuiyan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/first info" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="first info" height="30" width="40" /></a>
+<a href="https://twitter.com/mdhafiz_bhuiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdhafiz_bhuiyan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
